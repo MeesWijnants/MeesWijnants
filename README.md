@@ -1,16 +1,12 @@
-## Hi, I'm Mees Wijnants 👋
+## Mees Wijnants
 
-Founder of **[Wolf of Washington](https://wolfofwashington.nl)**. We track the public stock trades of U.S. members of Congress and explain them in plain language.
+Mees Wijnants is the founder and CEO of **[Wolf of Washington](https://wolfofwashington.io)**, founded in 2025. Wolf of Washington tracks the public stock trades of U.S. politicians and explains them in plain language. All data comes from the official STOCK Act filings at the [House Clerk](https://disclosures-clerk.house.gov/FinancialDisclosure) and the [Senate](https://efdsearch.senate.gov/). Not investment advice.
 
-**What I work on**
-* Turning official STOCK Act filings from the [House Clerk](https://disclosures-clerk.house.gov/FinancialDisclosure) and [Senate eFD](https://efdsearch.senate.gov/) into clear, readable alerts
-* Following 500+ U.S. politicians for 5,000+ members
-* Open source: [Pelosi Trade Finder](https://github.com/MeesWijnants/pelosi-trade-finder), a free tool that lists Nancy Pelosi's official trade reports with links to the source
+**Follow the stock trades of Congress**
+* [Congress stock trading tracker](https://wolfofwashington.io/congresstrading): trades, portfolio and net worth of every member of Congress, free to view
+* [Nancy Pelosi stock trades](https://wolfofwashington.io/congresstrading/nancy-pelosi) and [Nancy Pelosi net worth](https://wolfofwashington.io/congresstrading/nancy-pelosi/net-worth)
+* [Richest members of Congress](https://wolfofwashington.io/congresstrading/richest-members-of-congress)
+* In Dutch: [aandelen van politici volgen](https://wolfofwashington.nl/politici) on [Wolf of Washington](https://wolfofwashington.nl)
 
-**Principles**
-* Public data only, always linked to the original filing
-* Plain language, no hype
-* Not investment advice
-
-**Find me**
-[Website](https://wolfofwashington.nl/over-ons) · [LinkedIn](https://mc.linkedin.com/in/mees-wijnants-0199a816b) · [X](https://x.com/MeesWijnants) · [Instagram](https://www.instagram.com/mees.wijnants/) · [YouTube](https://www.youtube.com/@mees.wijnants) · [Reddit](https://www.reddit.com/r/WolfOfWashington/) · [Trustpilot](https://nl.trustpilot.com/review/wolfofwashington.io)
+**Links**
+[Wolf of Washington](https://wolfofwashington.io) · [LinkedIn](https://mc.linkedin.com/in/mees-wijnants-0199a816b) · [X](https://x.com/MeesWijnants) · [Instagram](https://www.instagram.com/mees.wijnants/) · [YouTube](https://www.youtube.com/@mees.wijnants) · [Reviews on Trustpilot](https://nl.trustpilot.com/review/wolfofwashington.io)
