@@ -9,7 +9,7 @@ Mees Wijnants is the founder and CEO of **[Wolf of Washington](https://wolfofwas
 * In Dutch: [aandelen van politici volgen](https://wolfofwashington.nl/politici) on [Wolf of Washington](https://wolfofwashington.nl)
 
 **Wolf of Washington**  
-99 Wall Street, Suite #328, New York, NY 10005, USA · info@wolfofwashington.io
+Schaanerstraße 99, 9490 Vaduz, Liechtenstein · info@wolfofwashington.io
 
 **Links**
 [Wolf of Washington](https://wolfofwashington.io) · [LinkedIn](https://mc.linkedin.com/in/mees-wijnants-0199a816b) · [X](https://x.com/MeesWijnants) · [Instagram](https://www.instagram.com/mees.wijnants/) · [YouTube](https://www.youtube.com/@mees.wijnants) · [Reviews on Trustpilot](https://nl.trustpilot.com/review/wolfofwashington.io)
